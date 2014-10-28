@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	'app' => __DIR__.'/../laravel/app',
+	'app' => __DIR__.'/../../laravel/app',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -39,7 +39,7 @@ return array(
 	|
 	*/
 
-	'base' => __DIR__.'/../laravel',
+	'base' => __DIR__.'/../../laravel',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -52,6 +52,6 @@ return array(
 	|
 	*/
 
-	'storage' => __DIR__.'/../laravel/app/storage',
+	'storage' => __DIR__.'/../../laravel/app/storage',
 
 );
